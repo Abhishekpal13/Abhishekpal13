@@ -1,4 +1,4 @@
-Hi 👋 My name is Abhishek Pal
+Hi 👋 My name is ABHISHEK PAL
 
 Full-Stack web developer 
 * 🌍  I'm based in India. 
